@@ -2,7 +2,8 @@ package org.generation.italy.utils;
 
 public class CalcoliHelper {
 
-	// la risposta dovrebbe essere overload
+	/* qui l'overload dei metodi fa si che chiamando i metodi con lo stesso
+	nome venga piu "semplice" richiamarli quando li si usa nel main*/
 
 	private CalcoliHelper() {
 		// creato costruttore vuoto privato
